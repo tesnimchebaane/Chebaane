@@ -37,6 +37,10 @@ public class Es2 {
             }
          }
          int somma = sommaPari + sommaDispari;
+         System.out.println("La somma dei due risultati è: " + somma);
+         
+         
+         
          
          
     }
